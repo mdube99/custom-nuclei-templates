@@ -3,7 +3,7 @@ id: roundcube-webmail-detection
 info:
   name: Roundcube Webmail Detection
   author: Mark Dube
-  severity: info
+  severity: low
   description: Detects the presence of Roundcube webmail interfaces.
   tags: tech,webmail,roundcube
 
